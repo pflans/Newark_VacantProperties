@@ -1,4 +1,4 @@
-Newark_VavantProperties
+Newark_VacantProperties
 =======================
 
 Newark vacant properties data from 2014
